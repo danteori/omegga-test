@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "description": "A typed safe Omegga plugin.",
+  "author": "danteori",
+  "config": {},
+  "commands": []
+}
